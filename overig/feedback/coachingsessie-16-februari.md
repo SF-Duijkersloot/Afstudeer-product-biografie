@@ -1,0 +1,5 @@
+# Coachingsessie 16 februari
+
+Tijdens de coachingsessie keken we naar onze Design briefs en hier kwam naar voren dat het belangrijk is om binnen het platform duidelijk te maken voor wie performance marketing bedoeld is en onder welke voorwaarden het effectief kan zijn. Er werd geadviseerd om “gateway criteria” te formuleren: één of twee kernvragen die potentiële klanten helpen bepalen of performance marketing aansluit bij hun situatie. Dit draagt bij aan realistische verwachtingen en voorkomt dat organisaties instappen met verkeerde doelen.
+
+Daarnaast zei James Boekbinder dat het platform niet alleen moet uitleggen wat performance marketing is, maar ook waarom het werkt en voor welke type organisaties. Dit vraagt om een duidelijke positionering binnen een specifieke niche. Door middel van een voorbeeldcasus kan worden laten zien voor wie performance marketing geschikt is en voor wie niet. Zo is performance marketing minder passend voor organisaties die primair hun imago willen veranderen, terwijl het juist goed werkt voor organisaties die hun bereik willen vergroten of meer leads willen genereren.

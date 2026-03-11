@@ -1,0 +1,8 @@
+# Productvisie
+
+De voorlopige productvisie is een digitaal interactief platform in de vorm van een portfolio- en conversiegerichte website voor Studio Pyår, waarin performance marketing en de rol van content concreet en begrijpelijk worden uitgelegd aan potentiële klanten. Het platform combineert uitleg, visuele voorbeelden en interactieve elementen om bezoekers inzicht te geven in de werkwijze, de rol van content en de verwachte resultaten van een samenwerking. Het doel van het platform is om begrip te vergroten, vertrouwen op te bouwen en bezoekers te ondersteunen in hun besluitvorming om contact op te nemen.&#x20;
+
+De kern van het platform is een interactieve voorbeeldcasus waarin een realistisch performance marketing traject wordt getoond, van probleemstelling tot resultaat. Bezoekers kunnen stap voor stap zien hoe strategie, content en campagne-optimalisatie samenwerken en welke rol verschillende contentvormen spelen in het behalen van meetbare resultaten. Door middel van interactieve elementen, zoals het vergelijken van contentvarianten, het bekijken van processtappen en het verkennen van KPI-resultaten, krijgt de gebruiker inzicht in zowel het proces als de impact van performance marketing.&#x20;
+
+Deze aanpak maakt het mogelijk om een concreet, begrijpelijk en technisch haalbaar MVP te ontwikkelen binnen de scope van het afstudeerproject, terwijl het platform tegelijkertijd schaalbaar blijft voor toekomstige uitbreiding met meerdere cases of scenario’s. Het eindproduct is een werkende, responsive front-end website met een duidelijke informatiearchitectuur, interactieve componenten en een overdraagbare technische basis, zodat Studio Pyår het platform na het project verder kan gebruiken en uitbreiden.
+
